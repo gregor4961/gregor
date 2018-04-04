@@ -1,99 +1,99 @@
 body {
-	background: black;
-	transition: transform 5s ease, background-color 5s ease-in-out;
+    background: black;
+    transition: transform 5s ease, background-color 5s ease-in-out;
 }
 
 body:hover {
-	background: #00d7f4;
+    background: #00d7f4;
 }
 
 .t {
-	height: 450px;
-	width: 350px;
-	background: #e5e576;
-	border-left: 20px solid yellow;
-	border-top: 20px solid green;
-	border-right: 20px solid red;
-	border-bottom: 20px solid blue;
-	margin: 30px auto;
-	position: relative;
-	transition: transform 150s ease, border 7s ease-in-out, background-color 12s ease, transform 50s ease, border-radius 10s ease-in-out;
+    height: 450px;
+    width: 350px;
+    background: #e5e576;
+    border-left: 20px solid yellow;
+    border-top: 20px solid green;
+    border-right: 20px solid red;
+    border-bottom: 20px solid blue;
+    margin: 30px auto;
+    position: relative;
+    transition: transform 150s ease, border 7s ease-in-out, background-color 12s ease, transform 50s ease, border-radius 10s ease-in-out;
 }
 
 .t:hover {
-	transform: rotate(6000deg);
-	border-bottom-color: yellow;
-	border-left-color: darkgreen;
-	border-right-color: cadetblue;
-	border-top-color: crimson;
-	background-color: black;
-	border-radius: 50%;
+    transform: rotate(6000deg);
+    border-bottom-color: yellow;
+    border-left-color: darkgreen;
+    border-right-color: cadetblue;
+    border-top-color: crimson;
+    background-color: black;
+    border-radius: 50%;
 }
 
 .g {
-	margin: 3.15% 20px;
-	height: 300px;
-	width: 240px;
-	background: #0afc00;
-	border-left: 20px solid yellow;
-	border-top: 20px solid green;
-	border-right: 20px solid red;
-	border-bottom: 20px solid blue;
-	transition: transform 150s ease, border 7s ease-in-out, background-color 12s ease, transform 50s ease, border-radius 10s ease-in-out;
+    margin: 3.15% 20px;
+    height: 300px;
+    width: 240px;
+    background: #0afc00;
+    border-left: 20px solid yellow;
+    border-top: 20px solid green;
+    border-right: 20px solid red;
+    border-bottom: 20px solid blue;
+    transition: transform 150s ease, border 7s ease-in-out, background-color 12s ease, transform 50s ease, border-radius 10s ease-in-out;
 }
 
 .g:hover {
-	transform: rotate(7000deg);
-	border-bottom-color: yellow;
-	border-left-color: darkgreen;
-	border-right-color: cadetblue;
-	border-top-color: crimson;
-	background-color: black;
-	border-radius: 50%;
+    transform: rotate(7000deg);
+    border-bottom-color: yellow;
+    border-left-color: darkgreen;
+    border-right-color: cadetblue;
+    border-top-color: crimson;
+    background-color: black;
+    border-radius: 50%;
 }
 
 .tt {
-	height: 180px;
-	width: 100px;
-	background: #00d7f4;
-	border-left: 20px solid yellow;
-	border-top: 20px solid green;
-	border-right: 20px solid red;
-	border-bottom: 20px solid blue;
-	margin: 9.5px auto;
-	position: relative;
-	transition: transform 150s ease, border 7s ease-in-out, background-color 12s ease, transform 50s ease, border-radius 10s ease-in-out;
+    height: 180px;
+    width: 100px;
+    background: #00d7f4;
+    border-left: 20px solid yellow;
+    border-top: 20px solid green;
+    border-right: 20px solid red;
+    border-bottom: 20px solid blue;
+    margin: 9.5px auto;
+    position: relative;
+    transition: transform 150s ease, border 7s ease-in-out, background-color 12s ease, transform 50s ease, border-radius 10s ease-in-out;
 }
 
 .tt:hover {
-	transform: rotate(5000deg);
-	border-bottom-color: yellow;
-	border-left-color: darkgreen;
-	border-right-color: cadetblue;
-	border-top-color: crimson;
-	background-color: black;
-	border-radius: 50%;
+    transform: rotate(5000deg);
+    border-bottom-color: yellow;
+    border-left-color: darkgreen;
+    border-right-color: cadetblue;
+    border-top-color: crimson;
+    background-color: black;
+    border-radius: 50%;
 }
 
 .gg {
-	margin: 0px auto;
-	height: 40px;
-	width: 30px;
-	background: #adb149;
-	border-radius: 50%;
-	border-left: 10px solid yellow;
-	border-top: 10px solid green;
-	border-right: 10px solid red;
-	border-bottom: 10px solid blue;
-	transition: transform 150s ease, border 7s ease-in-out, background-color 12s ease, transform 50s ease, border-radius 10s ease-in-out;
+    margin: 0px auto;
+    height: 40px;
+    width: 30px;
+    background: #adb149;
+    border-radius: 50%;
+    border-left: 10px solid yellow;
+    border-top: 10px solid green;
+    border-right: 10px solid red;
+    border-bottom: 10px solid blue;
+    transition: transform 150s ease, border 7s ease-in-out, background-color 12s ease, transform 50s ease, border-radius 10s ease-in-out;
 }
 
 .gg:hover {
-	transform: rotate(9999deg);
-	border-bottom-color: yellow;
-	border-left-color: darkgreen;
-	border-right-color: cadetblue;
-	border-top-color: crimson;
-	background-color: black;
-	border-radius: 1%;
+    transform: rotate(9999deg);
+    border-bottom-color: yellow;
+    border-left-color: darkgreen;
+    border-right-color: cadetblue;
+    border-top-color: crimson;
+    background-color: black;
+    border-radius: 1%;
 }
